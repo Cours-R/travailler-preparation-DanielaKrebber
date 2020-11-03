@@ -34,17 +34,17 @@ Résultat attendu : le site https://cours-r.github.io/travailler-preparation-Git
 ## Read me 
 needs to exist in the docs and maybe also in the racine - but it doesn't seem like that
 
-## Publish website 
-Here you publish the website in settings under the name Github pages.
-* Choose master branch and docs that you created
-* The read me and images should be placed in the docs folder
-(site web tous le temps branch master et publier le docs et pas le root. You find this in Settings - Github pages)
-* You can also select a theme for your site
+## Publish your website 
 
+**This is how you can publish your github website:** 
+1. Go within settings to Github pages
+2. Choose the master branch and docs that you created instead of root
+3. The read me and images should be placed in the docs folder so that it is displayed correctly
+4. You can also select a theme for you site here
 
 ![Publish Website](images/publish_site.png)
 
-Add the web site
+5. Then add your website on your github repository page by copy pasting the link into **About** -> **settings** -> **website**
 
 ![Add Website](images/add_website.PNG)
 
