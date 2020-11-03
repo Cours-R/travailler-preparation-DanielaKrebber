@@ -1,4 +1,4 @@
-# My Git
+# Daniela Krebber
 
 ![Logo EcoFoG](images/mypic.jpeg)
 
