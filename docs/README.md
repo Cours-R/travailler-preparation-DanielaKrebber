@@ -49,8 +49,9 @@ needs to exist in the docs and maybe also in the racine - but it doesn't seem li
 ![Add Website](images/add_website.PNG)
 
 
-
+## Important info when creating a new project with version control from scratch
 When creating a new project with version control - empty one - no branch selected.. this poses problems so do a comit then there it is named the branch 
 click on branch name it as well master like the branch shown  - then write REmote Name origin and paste in the Remote URL 
 Remote in new branch selected none... 
 then choose add and select overwrite as the master branch already existed before. 
+Or just clone a new repository and copy paste your preexisting project inside - like I am always doing.
